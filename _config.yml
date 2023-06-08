@@ -9,12 +9,12 @@ url: "https://strsong0.github.io/gitblog_hello2/" # the base hostname & protocol
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: David Freeman # add your name
+author: 송윤석 # add your name
 author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
+about-author: 안녕하세요. 여기는 송윤석 개발자 블로그입니다. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
+social-github: str17gogo artemsheludko # add your Github handle
 social-linkedin: # add your Linkedin handle
 social-email: # add your Email address
 
